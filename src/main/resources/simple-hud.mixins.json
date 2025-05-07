@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "com.neipth.simplehud.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [ "HudMixin" ],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

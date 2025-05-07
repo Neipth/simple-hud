@@ -1,0 +1,46 @@
+{
+  "key.simplehud.hud": "Menu de Configuración",
+  "key.simplehud.category.simple-hud": "Simple Hud",
+  "key.simplehud.chat_message.on": "Simple HUD activado",
+  "key.simplehud.chat_message.off": "Simple HUD desactivado",
+
+  "text.autoconfig.simplehud.title": "Ajustes de Simple HUD",
+  "text.autoconfig.simplehud.category.UI Config": "Personalizar Hud",
+  "text.autoconfig.simplehud.category.UI Config.@Tooltip": "Personalizar Hud",
+
+  "text.autoconfig.simplehud.option.uiConfig.toggleSimpleHUD.@Tooltip": "Activa el HUD",
+  "text.autoconfig.simplehud.option.uiConfig.toggleSimpleHUD": "Mostrar HUD",
+  "text.autoconfig.simplehud.option.uiConfig.textColor.@Tooltip": "El color del texto en el HUD",
+  "text.autoconfig.simplehud.option.uiConfig.textColor": "Color del texto",
+  "text.autoconfig.simplehud.option.uiConfig.textShadow.@Tooltip": "Activa sombreado al hud",
+  "text.autoconfig.simplehud.option.uiConfig.textShadow": "Activar sombreado",
+  "text.autoconfig.simplehud.option.uiConfig.textBackground.@Tooltip": "Agrega un fondo al texto en el HUD",
+  "text.autoconfig.simplehud.option.uiConfig.textBackground": "Fondo del texto",
+  "text.autoconfig.simplehud.option.uiConfig.hudPosition": "Posicionar Hud",
+  "text.autoconfig.simplehud.option.uiConfig.hudPosition.@Tooltip": "Cambiar Posición del Hud",
+
+  "text.autoconfig.simplehud.option.hudElements.@Tooltip": "Elementos del HUD (Clic para expandir)",
+  "text.autoconfig.simplehud.option.hudElements": "Elementos del HUD",
+
+  "text.autoconfig.simplehud.option.hudElements.toggleCoord.@Tooltip": "Habilitar Coord en el HUD",
+  "text.autoconfig.simplehud.option.hudElements.toggleCoord": "Ver Coordenadas",
+  "text.autoconfig.simplehud.option.hudElements.toggleFps.@Tooltip": "Habilitar Fps en el HUD",
+  "text.autoconfig.simplehud.option.hudElements.toggleFps": "Ver FPS",
+  "text.autoconfig.simplehud.option.hudElements.toggleBiome.@Tooltip": "Habilitar bioma en el HUD",
+  "text.autoconfig.simplehud.option.hudElements.toggleBiome": "Ver Bioma",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.@Tooltip": "Hora del juego (Clic para expandir)",
+  "text.autoconfig.simplehud.option.hudElements.gameTime": "Hora del juego",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.toggleGameTime.@Tooltip": "Muestra la hora del juego, es decir, que hora es dentro de Minecraft",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.toggleGameTime": "Mostrar hora del juego",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.toggleGameTime24Hour.@Tooltip": "Muestra la hora del juego pero en formato de 24 horas",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.toggleGameTime24Hour": "Formato de 24 horas",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.toggleGameDayCounter.@Tooltip": "Muestra el dia actual del juego, es decir, cuantos dias de Minecraft tiene el mundo",
+  "text.autoconfig.simplehud.option.hudElements.gameTime.toggleGameDayCounter": "Mostrar dias jugados",
+
+  "text.autoconfig.simplehud.option.hudElements.systemTime.@Tooltip": "Hora real (Clic para expandir)",
+  "text.autoconfig.simplehud.option.hudElements.systemTime": "Hora real",
+  "text.autoconfig.simplehud.option.hudElements.systemTime.toggleSystemTime.@Tooltip": "Muestra la hora del sistema, es decir, que hora es en la vida real segun tu ordenador (en la parte inferior derecha de la pantalla)",
+  "text.autoconfig.simplehud.option.hudElements.systemTime.toggleSystemTime": "Mostrar hora real",
+  "text.autoconfig.simplehud.option.hudElements.systemTime.toggleSystemTime24Hour.@Tooltip": "Muestra la hora real pero en formato de 24 horas",
+  "text.autoconfig.simplehud.option.hudElements.systemTime.toggleSystemTime24Hour": "Formato de 24 horas"
+}
